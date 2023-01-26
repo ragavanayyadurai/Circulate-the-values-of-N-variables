@@ -26,7 +26,8 @@ def circulate():
 ```
 
 ## Output:
-![output](circulate.png)
+![output](/output5.png)
+
 
 ## Result:
 By this program we able to circulate the values of n - variables
